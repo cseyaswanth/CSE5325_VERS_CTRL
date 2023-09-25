@@ -1,5 +1,6 @@
 # Team 13
-a=12
+a=15
 b=14
-c=a+b
-print(c)
+c=20
+d=a+b+c
+print(d)
